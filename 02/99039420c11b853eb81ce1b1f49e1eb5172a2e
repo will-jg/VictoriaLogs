@@ -1,0 +1,359 @@
+go.mod
+  s_2be24e270284a8::t_3688f75fde69a9 3,6,10
+apptest/model.go
+  s_2be24e270284a8::t_f966818e4022ef 4,6,10,228-247,308-345
+app/vlagent/remotewrite/remotewrite.go
+  s_2be24e270284a8::t_f966818e4022ef 39
+app/vlinsert/jsonline/jsonline.go
+  s_2be24e270284a8::t_f966818e4022ef 43,51
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/fadvise_solaris.go
+  s_2be24e270284a8::t_3688f75fde69a9 9-13
+app/vmui/packages/vmui/src/components/Views/GroupView/style.scss
+  s_2be24e270284a8::t_f966818e4022ef 334-337,446-447,463-478,502
+app/vmui/packages/vmui/src/pages/QueryPage/hooks/useFetchLogs.ts
+  s_2be24e270284a8::t_f966818e4022ef 169-175,182,193-194
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/parallel.go
+  s_2be24e270284a8::t_3688f75fde69a9 18-21,24,26,28-31,43-45
+dashboards/vm/vlagent.json
+  s_2be24e270284a8::t_f966818e4022ef 991,1619,1729,2183,5314
+docs/victorialogs/victoria_logs_common_flags.md
+  s_2be24e270284a8::t_f966818e4022ef 61-62,68,252
+vendor/github.com/bmatcuk/doublestar/v4/match.go
+  s_2be24e270284a8::t_3688f75fde69a9 410-419
+app/vmui/packages/vmui/src/pages/QueryPage/HitsPanel/HitsPanel.tsx
+  s_2be24e270284a8::t_f966818e4022ef 15-21,32,35,39-44,50-53,56,112-145,147
+lib/logstorage/pipe_math.go
+  s_2be24e270284a8::t_f966818e4022ef 6,832,841-844
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/mergeset/table.go
+  s_2be24e270284a8::t_3688f75fde69a9 490
+app/vlselect/main.go
+  s_2be24e270284a8::t_f966818e4022ef 27,115-118
+app/vmui/packages/vmui/src/components/Table/TableExpandCell/TableExpandCell.tsx
+  s_2be24e270284a8::t_f966818e4022ef 1-32
+lib/logstorage/pattern_matcher_test.go
+  s_2be24e270284a8::t_f966818e4022ef 72,100
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/fadvise_darwin.go
+  s_2be24e270284a8::t_3688f75fde69a9 11-15
+app/vmui/packages/vmui/src/hooks/useTenant.ts
+  s_2be24e270284a8::t_f966818e4022ef 4-8,18
+app/vmui/packages/vmui/src/pages/QueryPage/utils/fetchHitsIterative.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-60
+lib/logstorage/pipe_sort_topk_test.go
+  s_2be24e270284a8::t_f966818e4022ef 7-72
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/writeconcurrencylimiter/concurrencylimiter.go
+  s_2be24e270284a8::t_3688f75fde69a9 20
+deployment/logs-benchmark/docker-compose.yml
+  s_2be24e270284a8::t_f966818e4022ef 5
+app/vmui/packages/vmui/src/api/types.ts
+  s_2be24e270284a8::t_f966818e4022ef 39
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/hooks/useBarPaths.ts
+  s_2be24e270284a8::t_f966818e4022ef 3,43-46,59-65,78-79,169-189
+app/vlinsert/datadog/datadog.go
+  s_2be24e270284a8::t_f966818e4022ef 177,195
+dashboards/vlagent.json
+  s_2be24e270284a8::t_f966818e4022ef 990,1618,1728,2182,5313
+deployment/docker/Makefile
+  s_2be24e270284a8::t_f966818e4022ef 8
+app/vmui/packages/vmui/src/pages/QueryPage/utils/mergeLogHits.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-28
+deployment/docker/compose-vl-single.yml
+  s_2be24e270284a8::t_f966818e4022ef 41
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/fs_windows.go
+  s_2be24e270284a8::t_3688f75fde69a9 119-128
+app/vmui/packages/vmui/src/components/Main/Pagination/SelectLimit/SelectLimit.tsx
+  s_2be24e270284a8::t_f966818e4022ef 79,92
+app/vmui/packages/vmui/src/pages/QueryPage/hooks/useQueryPageController/index.test.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-204
+app/vlselect/vmui/manifest.json
+  s_2be24e270284a8::t_f966818e4022ef 6
+app/vmui/packages/vmui/src/components/Views/TableView/TableLogs.tsx
+  s_2be24e270284a8::t_f966818e4022ef 8,37-44
+vendor/github.com/bmatcuk/doublestar/v4/utils.go
+  s_2be24e270284a8::t_3688f75fde69a9 142-151
+vendor/modules.txt
+  s_2be24e270284a8::t_3688f75fde69a9 1,62
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/httputil/transport_sync_body.go
+  s_2be24e270284a8::t_3688f75fde69a9 1-122
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/BarHitsPlot/BarHitsPlot.tsx
+  s_2be24e270284a8::t_f966818e4022ef 21,27,33-41,56-64,67-71,73,75,89-104,108,179-186,195
+apptest/vlsingle.go
+  s_2be24e270284a8::t_f966818e4022ef 269-284
+lib/logstorage/filter_equals_common_case.go
+  s_2be24e270284a8::t_f966818e4022ef 8
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/BarHitsIterativeWarning/style.scss
+  s_2be24e270284a8::t_f966818e4022ef 1-14
+docs/victorialogs/querying/vlogscli.md
+  s_2be24e270284a8::t_f966818e4022ef 33-34
+app/vmui/packages/vmui/src/components/Configurators/QueryEditor/QueryEditor.tsx
+  s_2be24e270284a8::t_f966818e4022ef 18,57,62,83,86-99,171,176,181
+app/vmui/packages/vmui/src/components/Configurators/GlobalSettings/GlobalSettings.tsx
+  s_2be24e270284a8::t_f966818e4022ef 15-16,48-50
+app/vmui/packages/vmui/src/components/Table/style.scss
+  s_2be24e270284a8::t_f966818e4022ef 12-49
+dashboards/vm/victorialogs-cluster.json
+  s_2be24e270284a8::t_f966818e4022ef 7144-7250,10932
+README.md
+  s_2be24e270284a8::t_f966818e4022ef 17
+app/vlselect/vmui/index.html
+  s_2be24e270284a8::t_f966818e4022ef 5-7,39,41,43
+app/vmui/packages/vmui/src/pages/QueryPage/utils/getHitsTimeRanges.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-50
+app/vlselect/vmui/assets/index-TSMEX6Db.css
+  s_2be24e270284a8::t_f966818e4022ef 1
+deployment/logs-benchmark/docker-compose-elk.yml
+  s_2be24e270284a8::t_f966818e4022ef 21
+lib/logstorage/filter_contains_common_case.go
+  s_2be24e270284a8::t_f966818e4022ef 11
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/hooks/useBarHitsOptions.ts
+  s_2be24e270284a8::t_f966818e4022ef 3,7,12-14,46,90,104-124,132-134,136,144,147,186
+app/vmui/packages/vmui/src/components/Table/Table.tsx
+  s_2be24e270284a8::t_f966818e4022ef 1,8,24,45-46,48-65,88,110-140,142-158
+app/vmui/packages/vmui/src/constants/palette.ts
+  s_2be24e270284a8::t_f966818e4022ef 19-20,46-47
+app/vlstorage/main.go
+  s_2be24e270284a8::t_f966818e4022ef 33,250-251,253,255-261,268,270,277-280
+app/vmui/packages/vmui/src/components/Configurators/GlobalSettings/IncrementalHitsSettings/style.scss
+  s_2be24e270284a8::t_f966818e4022ef 1-19
+app/vmui/packages/vmui/src/utils/logs.ts
+  s_2be24e270284a8::t_f966818e4022ef 4,81
+app/vlselect/vmui/assets/favicon.svg
+  s_2be24e270284a8::t_f966818e4022ef 1-5
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/fsutil/concurrency.go
+  s_2be24e270284a8::t_3688f75fde69a9 10
+app/vmui/packages/vmui/src/pages/QueryPage/hooks/useTimePeriod.test.tsx
+  s_2be24e270284a8::t_f966818e4022ef 1-154
+app/vmui/packages/vmui/src/utils/storage/constants.ts
+  s_2be24e270284a8::t_f966818e4022ef 21-22
+app/vmui/packages/vmui/src/pages/QueryPage/hooks/useQueryPageTriggers/useHitsTriggers.ts
+  s_2be24e270284a8::t_f966818e4022ef 6,17,34-36
+app/vmui/packages/vmui/src/pages/QueryPage/utils/processHits.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-30
+.github/workflows/codeql-analysis-go.yml
+  s_2be24e270284a8::t_f966818e4022ef 54,59,62
+docs/victorialogs/vlagent.md
+  s_2be24e270284a8::t_f966818e4022ef 133-135,317
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/encoding/encoding.go
+  s_2be24e270284a8::t_3688f75fde69a9 4,178-185,190,202
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/madvise_unix.go
+  s_2be24e270284a8::t_3688f75fde69a9 1-25
+app/vlstorage/netselect/netselect.go
+  s_2be24e270284a8::t_f966818e4022ef 352
+app/vmui/packages/vmui/src/pages/QueryPage/utils/getResponseError.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-10
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/types.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-2,23-25
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/fadvise_openbsd.go
+  s_2be24e270284a8::t_3688f75fde69a9 11-15
+app/vmui/packages/vmui/src/components/Table/types.ts
+  s_2be24e270284a8::t_f966818e4022ef 31
+app/vmui/packages/vmui/src/pages/QueryPage/QueryPageBody/style.scss
+  s_2be24e270284a8::t_f966818e4022ef 60-62
+Makefile
+  s_2be24e270284a8::t_f966818e4022ef 17,131-133
+app/vmui/packages/vmui/src/components/Main/Autocomplete/AutocompleteDetailsPanel/AutocompleteDetailsPanel.tsx
+  s_2be24e270284a8::t_f966818e4022ef 8,11,18-21
+app/vmui/packages/vmui/src/components/Main/Icons/index.tsx
+  s_2be24e270284a8::t_f966818e4022ef 739-769
+app/vmui/packages/vmui/src/pages/QueryPage/utils/fetchHitsStats.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-23
+apptest/client.go
+  s_2be24e270284a8::t_f966818e4022ef 5,13,93-127,145
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/flagutil/flag.go
+  s_2be24e270284a8::t_3688f75fde69a9 14
+lib/logstorage/pipe_coalesce_test.go
+  s_2be24e270284a8::t_f966818e4022ef 213,219
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/madvise_windows.go
+  s_2be24e270284a8::t_3688f75fde69a9 1-5
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/reader_at.go
+  s_2be24e270284a8::t_3688f75fde69a9 20-23,56-57,111-113,162-166,169-172,339-350
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/netutil/unixlistener.go
+  s_2be24e270284a8::t_3688f75fde69a9 16-18
+package/release/Makefile
+  s_2be24e270284a8::t_f966818e4022ef 4-9,26,40
+app/vlagent/filecollector/processor.go
+  s_2be24e270284a8::t_f966818e4022ef 52-53
+deployment/docker/compose-vl-cluster.yml
+  s_2be24e270284a8::t_f966818e4022ef 39,46,52,59,66
+apptest/tests/live_tailing_test.go
+  s_2be24e270284a8::t_f966818e4022ef 1-98
+docs/victorialogs/security-and-lb.md
+  s_2be24e270284a8::t_f966818e4022ef 35,332,443,524-540
+deployment/docker/victorialogs/compose-base.yml
+  s_2be24e270284a8::t_f966818e4022ef 4,44
+docs/victorialogs/cluster.md
+  s_2be24e270284a8::t_f966818e4022ef 82,310-311,339
+docs/victorialogs/README.md
+  s_2be24e270284a8::t_f966818e4022ef 68,381,405-406,408-413
+app/vmui/packages/vmui/src/components/Configurators/GlobalSettings/IncrementalHitsSettings/IncrementalHitsSettings.tsx
+  s_2be24e270284a8::t_f966818e4022ef 1-33
+app/vlagent/tail/logfile.go
+  s_2be24e270284a8::t_f966818e4022ef 220,232-237
+dashboards/vm/victorialogs.json
+  s_2be24e270284a8::t_f966818e4022ef 72,85,97,5207-5313,8063
+lib/logstorage/block_stream_writer.go
+  s_2be24e270284a8::t_f966818e4022ef 304
+docs/victorialogs/LTS-releases.md
+  s_2be24e270284a8::t_f966818e4022ef 1-30
+docs/victorialogs/vlagent_common_flags.md
+  s_2be24e270284a8::t_f966818e4022ef 89-90,96
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/promauth/config.go
+  s_2be24e270284a8::t_3688f75fde69a9 548-551
+docs/victorialogs/querying/README.md
+  s_2be24e270284a8::t_f966818e4022ef 1184,1200
+app/vlselect/vmui/assets/vendor-Bl8Hxami.js
+  s_2be24e270284a8::t_f966818e4022ef 69-73,75,77-78
+lib/logstorage/query_stats.go
+  s_2be24e270284a8::t_f966818e4022ef 39
+app/vmui/packages/vmui/src/pages/QueryPage/hooks/useFetchHits.ts
+  s_2be24e270284a8::t_f966818e4022ef 1,8-13,23,30-31,36,44,46-47,49-52,54-56,58,62-63,67-70,72-77,80,82,85-90,98-111,113,116-133,137-138,140-152,154-158,160,162-163,166-171,173-181,191-192,198,203-206
+app/vmui/packages/vmui/src/state/query/reducer.ts
+  s_2be24e270284a8::t_f966818e4022ef 16,24-25,34,66-69
+dashboards/victorialogs.json
+  s_2be24e270284a8::t_f966818e4022ef 71,84,96,5206-5312,8062
+lib/logstorage/parser_test.go
+  s_2be24e270284a8::t_f966818e4022ef 4475
+app/vmui/packages/vmui/src/components/ExtraFilters/ExtraFiltersPanel/ExtraFiltersPanel.tsx
+  s_2be24e270284a8::t_f966818e4022ef 6,17
+docs/victorialogs/data-ingestion/README.md
+  s_2be24e270284a8::t_f966818e4022ef 321
+app/vmui/packages/vmui/src/components/ExtraFilters/ExtraFiltersPanel/ExtraFiltersPanelItem.tsx
+  s_2be24e270284a8::t_f966818e4022ef 2,7-8,19-20,31-36,38-45,53-58,60
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/httputil/transport_lb.go
+  s_2be24e270284a8::t_3688f75fde69a9 162,164-167,193,203-206,218
+app/vmui/packages/vmui/src/pages/QueryPage/hooks/useQueryPageController/index.ts
+  s_2be24e270284a8::t_f966818e4022ef 1,76-77,87-92,99-103,108,135-138,143,146-147,185-186,190-210,226
+app/vmui/packages/vmui/src/pages/QueryPage/utils/buildHitsRequest.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-40
+app/vmui/packages/vmui/src/pages/OverviewPage/OverviewHits/OverviewHits.tsx
+  s_2be24e270284a8::t_f966818e4022ef 33
+app/vmui/packages/vmui/src/components/Views/GroupView/GroupLogsFieldRowMenu/FieldFilterExclude.tsx
+  s_2be24e270284a8::t_f966818e4022ef 11,14,20
+app/vmui/packages/vmui/src/pages/QueryPage/utils/processStatsQueryRange.ts
+  s_2be24e270284a8::t_f966818e4022ef 14-18,20-22,24-26,28-29,31-33,35-37,40-41,43-44,46-49,51-53,55-57,59-61,63-64,66,68-92,94-97,100-107,109-110
+docs/victorialogs/querying/vlogscli_common_flags.md
+  s_2be24e270284a8::t_f966818e4022ef 34-35,41
+app/vmui/packages/vmui/src/pages/QueryPage/hooks/useQueryPageController/useHitsController.ts
+  s_2be24e270284a8::t_f966818e4022ef 1,6-7
+app/vmui/packages/vmui/src/constants/logs.ts
+  s_2be24e270284a8::t_f966818e4022ef 44-47
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/encoding/zstd/zstd_pure.go
+  s_2be24e270284a8::t_3688f75fde69a9 126
+app/vmui/packages/vmui/src/pages/QueryPage/utils/processStatsQueryRange.test.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-2,16-17,21,33,48,64,83,113,129,148
+app/vmui/packages/vmui/src/components/Views/GroupView/GroupLogsFieldRowMenu/FieldRowActions.tsx
+  s_2be24e270284a8::t_f966818e4022ef 14,16-18,21,41,47,50-58,61-86
+app/vmui/packages/vmui/src/pages/QueryPage/QueryPage.tsx
+  s_2be24e270284a8::t_f966818e4022ef 117,119-121,147
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/protoparser/protoparserutil/extra_labels.go
+  s_2be24e270284a8::t_3688f75fde69a9 23-25
+app/vlagent/tail/tailer_test.go
+  s_2be24e270284a8::t_f966818e4022ef 48,55,75,77,79,93-102,125,148,172,188,249,252,256-257,270-271,273,313
+app/vlagent/tail/logfile_test.go
+  s_2be24e270284a8::t_f966818e4022ef 120-121,123-124,127,133-139,143-144
+app/vlinsert/journald/journald.go
+  s_2be24e270284a8::t_f966818e4022ef 134,143
+app/vmui/packages/vmui/src/pages/QueryPage/QueryPageHeader/QueryPageHeader.tsx
+  s_2be24e270284a8::t_f966818e4022ef 17-18,26-28,32,41-43,47,114-124
+lib/logstorage/pipe_sort_topk.go
+  s_2be24e270284a8::t_f966818e4022ef 682
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/BarHitsOptions/BarHitsOptions.tsx
+  s_2be24e270284a8::t_f966818e4022ef 72
+app/vmui/packages/vmui/src/components/Views/GroupView/GroupLogsFieldRow.tsx
+  s_2be24e270284a8::t_f966818e4022ef 5-6,11,13,16,30,32,35-40
+lib/logstorage/parser.go
+  s_2be24e270284a8::t_f966818e4022ef 909,1242,4061
+app/vmui/packages/vmui/src/components/Configurators/QueryEditor/LogsQL/LogsQueryEditorAutocomplete.tsx
+  s_2be24e270284a8::t_f966818e4022ef 17,52
+apptest/tests/stats_query_range_test.go
+  s_2be24e270284a8::t_f966818e4022ef 211
+apptest/vlcluster.go
+  s_2be24e270284a8::t_f966818e4022ef 256-271
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/BarHitsLoadingOverlay/style.scss
+  s_2be24e270284a8::t_f966818e4022ef 1-50
+app/vmui/packages/vmui/src/pages/QueryPage/hooks/useTimePeriod.ts
+  s_2be24e270284a8::t_f966818e4022ef 13,43,89-92,103,114-117,119
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/fs/fadvise_unix.go
+  s_2be24e270284a8::t_3688f75fde69a9 24-31
+vendor/github.com/bmatcuk/doublestar/v4/glob.go
+  s_2be24e270284a8::t_3688f75fde69a9 413-414,417
+apptest/tests/http_auth_test.go
+  s_2be24e270284a8::t_f966818e4022ef 18,20-21,53-57,61-63,74-75,77-84
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/BarHitsIterativeWarning/BarHitsIterativeWarning.tsx
+  s_2be24e270284a8::t_f966818e4022ef 1-31
+lib/logstorage/syslog_parser.go
+  s_2be24e270284a8::t_f966818e4022ef 407-409
+lib/logstorage/pipe_running_stats_test.go
+  s_2be24e270284a8::t_f966818e4022ef 51
+docs/victorialogs/sql-to-logsql.md
+  s_2be24e270284a8::t_f966818e4022ef 122
+app/vmui/packages/vmui/src/pages/QueryPage/utils/fetchHitsOnce.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-28
+app/vmui/packages/vmui/src/components/Table/Table.test.tsx
+  s_2be24e270284a8::t_f966818e4022ef 1-74
+app/vmui/packages/vmui/src/components/ExtraFilters/ExtraFiltersPanel/style.scss
+  s_2be24e270284a8::t_f966818e4022ef 19,25,29-56,65,72
+lib/logstorage/partition.go
+  s_2be24e270284a8::t_f966818e4022ef 122-125
+deployment/logs-benchmark/docker-compose-loki.yml
+  s_2be24e270284a8::t_f966818e4022ef 5
+app/vlagent/tail/tailer.go
+  s_2be24e270284a8::t_f966818e4022ef 229-235,247-250,408
+app/vmui/packages/vmui/src/components/Views/GroupView/GroupLogsItem.tsx
+  s_2be24e270284a8::t_f966818e4022ef 102-115
+app/vmui/packages/vmui/src/pages/QueryPage/utils/getResponseDurationMs.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-10
+vendor/github.com/VictoriaMetrics/VictoriaMetrics/lib/mergeset/part.go
+  s_2be24e270284a8::t_3688f75fde69a9 106-108,111,115,119
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/BarHitsLoadingOverlay/BarHitsLoadingOverlay.tsx
+  s_2be24e270284a8::t_f966818e4022ef 1-49
+app/vmui/packages/vmui/src/components/Views/GroupView/GroupLogsFields.tsx
+  s_2be24e270284a8::t_f966818e4022ef 10,15,18,29-33,69,71
+app/vmui/packages/vmui/src/components/Chart/BarHitsChart/BarHitsChart.tsx
+  s_2be24e270284a8::t_f966818e4022ef 23,36,138
+app/vmui/packages/vmui/src/pages/QueryPage/QueryPageBody/QueryPageBody.tsx
+  s_2be24e270284a8::t_f966818e4022ef 32,50,75-78,109-111,151-157,162
+docs/victorialogs/vlagent-metrics.md
+  s_2be24e270284a8::t_f966818e4022ef 81,83
+app/vlselect/vmui/assets/index-lFbxh1s7.js
+  s_2be24e270284a8::t_f966818e4022ef 1-5,9-10,1376-1378,1390-1412
+app/vmui/packages/vmui/src/components/Main/Autocomplete/Autocomplete.tsx
+  s_2be24e270284a8::t_f966818e4022ef 42,72-73,141-144
+app/vlinsert/datadog/datadog_test.go
+  s_2be24e270284a8::t_f966818e4022ef 32,36,96,105-109
+docs/victorialogs/QuickStart.md
+  s_2be24e270284a8::t_f966818e4022ef 60-61,183-184,207
+docs/victorialogs/data-ingestion/Splunk.md
+  s_2be24e270284a8::t_f966818e4022ef 14
+lib/logstorage/pipe_math_test.go
+  s_2be24e270284a8::t_f966818e4022ef 40-44
+lib/logstorage/syslog_parser_test.go
+  s_2be24e270284a8::t_f966818e4022ef 68
+app/vmui/packages/vmui/src/components/Views/GroupView/GroupLogsFieldRowMenu/FieldFilterInclude.tsx
+  s_2be24e270284a8::t_f966818e4022ef 11,14,20
+go.sum
+  s_2be24e270284a8::t_3688f75fde69a9 1-2,11-12
+app/vmui/packages/vmui/src/pages/QueryPage/HitsPanel/hooks/useIncrementalTimeout.ts
+  s_2be24e270284a8::t_f966818e4022ef 1-38
+docs/victorialogs/metrics.md
+  s_2be24e270284a8::t_f966818e4022ef 270-274,290-293
+dashboards/victorialogs-cluster.json
+  s_2be24e270284a8::t_f966818e4022ef 7143-7249,10931
+SECURITY.md
+  s_2be24e270284a8::t_f966818e4022ef 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "0299039420c11b853eb81ce1b1f49e1eb5172a2e",
+  "prompts": {},
+  "sessions": {
+    "s_2be24e270284a8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a49d5513-5690-45ab-a1f5-7c835f00148a",
+        "model": "default"
+      },
+      "human_author": "yujunjian1 <yujunjian1@jd.com>"
+    }
+  }
+}

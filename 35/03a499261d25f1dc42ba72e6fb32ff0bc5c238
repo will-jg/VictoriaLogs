@@ -1,0 +1,27 @@
+app/vlselect/logsql/logsql_test.go
+  s_2be24e270284a8::t_14e04517710077 60-62,112-114
+app/vlselect/logsql/logsql.go
+  s_2be24e270284a8::t_14e04517710077 43,1696-1698,1729-1730
+docs/victorialogs/victoria_logs_common_flags.md
+  s_2be24e270284a8::t_14e04517710077 256
+docs/victorialogs/CHANGELOG.md
+  s_2be24e270284a8::t_14e04517710077 55
+go.mod
+  s_2be24e270284a8::t_14e04517710077 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "3503a499261d25f1dc42ba72e6fb32ff0bc5c238",
+  "prompts": {},
+  "sessions": {
+    "s_2be24e270284a8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a49d5513-5690-45ab-a1f5-7c835f00148a",
+        "model": "grok-4.7"
+      },
+      "human_author": "yujunjian1 <yujunjian1@jd.com>"
+    }
+  }
+}
